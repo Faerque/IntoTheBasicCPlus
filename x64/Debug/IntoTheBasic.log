@@ -1,0 +1,4 @@
+﻿  UnaryOperator.cpp
+C:\C++\BasicC++\IntoTheBasic\UnaryOperator.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\C++\BasicC++\IntoTheBasic\UnaryOperator.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  IntoTheBasic.vcxproj -> C:\C++\BasicC++\IntoTheBasic\x64\Debug\IntoTheBasic.exe
